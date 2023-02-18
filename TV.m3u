@@ -172,3 +172,9 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93095.ts
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93096.ts
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.imgur.com/Cvz1b9J.png" group-title="US",VH1
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93099.ts
+#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="Movie",StarMovies
+http://watchindia.net:8880/live/80249/77103/2080.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movie",CINEMAONE 
+https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWDKOcCo2S-gQQYPoxoOvvWPhWxuc7IYf-PjW4-9w=s900-c-k-c0x00ffffff-no-rj" group-title="Movie",&Flix HD
+http://212.224.84.217:2200/R-EX/HINDI_AND_FLIX_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
