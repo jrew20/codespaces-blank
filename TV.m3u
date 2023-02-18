@@ -26,7 +26,7 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93035.ts
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93048.ts
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Movie",HBO 2
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93049.ts
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://i.imgur.com/UMVX9GR.png" group-title="Movie",Hallmark
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://i.imgur.com/UMVX9GR.png" group-title="Show",Hallmark
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93046.ts
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentary",History
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93054.ts
@@ -34,7 +34,7 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93054.ts
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93057.ts
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/NS2k4oJ.png" group-title="Sport",NBA TV
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93058.ts
-#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Shows",Nick
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Show",Nick
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93063.ts
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Cartoon",Nick Jr.
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
@@ -54,7 +54,7 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93084.ts
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93085.ts
 #EXTINF:-1 tvg-id="Starz Encore Suspense" tvg-name="Starz Encore Suspense" tvg-logo="https://i.imgur.com/CLpZJ83.png" group-title="Movie",Starz Encore Suspense
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93086.ts
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Shows",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Show",TNT
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93092.ts
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://i.imgur.com/6bArDpH.png" group-title="Sport",UFC
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93094.ts
