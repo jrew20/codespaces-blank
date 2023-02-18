@@ -1,14 +1,174 @@
-#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="Movie",StarMovies
-http://watchindia.net:8880/live/80249/77103/2080.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movie",CINEMAONE 
-https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWDKOcCo2S-gQQYPoxoOvvWPhWxuc7IYf-PjW4-9w=s900-c-k-c0x00ffffff-no-rj" group-title="Movie",&Flix HD
-http://212.224.84.217:2200/R-EX/HINDI_AND_FLIX_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Documentary",Nat Geo HD
-http://212.224.84.217:2200/R-EX/ENGLISH_NATGEO_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Documentary",Discovery HD
-http://212.224.84.217:2200/R-EX/FHD_DISCOVERY_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+#EXTINF:-1 tvg-id="[US] A&E" tvg-name="[US] A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Internacionais",[US] A&E
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92944.ts
+#EXTINF:-1 tvg-id="[US] ABC Boston" tvg-name="[US] ABC Boston" tvg-logo="https://i.imgur.com/Aj3h9lP.png" group-title="Canais | Internacionais",[US] ABC Boston
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92945.ts
+#EXTINF:-1 tvg-id="[US] ABC Los Angeles" tvg-name="[US] ABC Los Angeles" tvg-logo="https://i.imgur.com/Qu1lLNi.png" group-title="Canais | Internacionais",[US] ABC Los Angeles
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92946.ts
+#EXTINF:-1 tvg-id="[US] ABC New York" tvg-name="[US] ABC New York" tvg-logo="https://i.imgur.com/twLPzlA.png" group-title="Canais | Internacionais",[US] ABC New York
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92947.ts
+#EXTINF:-1 tvg-id="[US] ABC Orlando" tvg-name="[US] ABC Orlando" tvg-logo="https://i.imgur.com/VKy8VS1.png" group-title="Canais | Internacionais",[US] ABC Orlando
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92948.ts
+#EXTINF:-1 tvg-id="[US] AMC" tvg-name="[US] AMC" tvg-logo="https://i.imgur.com/hB5meph.png" group-title="Canais | Internacionais",[US] AMC
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92949.ts
+#EXTINF:-1 tvg-id="[US] Animal Planet" tvg-name="[US] Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Internacionais",[US] Animal Planet
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
+#EXTINF:-1 tvg-id="[US] BBC America" tvg-name="[US] BBC America" tvg-logo="https://i.imgur.com/ZUeuVAY.png" group-title="Canais | Internacionais",[US] BBC America
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93011.ts
+#EXTINF:-1 tvg-id="[US] BBC World" tvg-name="[US] BBC World" tvg-logo="https://i.imgur.com/1T0PeRN.png" group-title="Canais | Internacionais",[US] BBC World
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93012.ts
+#EXTINF:-1 tvg-id="[US] BabyTV" tvg-name="[US] BabyTV" tvg-logo="https://i.imgur.com/kqlU1qN.png" group-title="Canais | Internacionais",[US] BabyTV
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92951.ts
+#EXTINF:-1 tvg-id="[US] Bloomberg" tvg-name="[US] Bloomberg" tvg-logo="https://i.imgur.com/jtbhzj5.png" group-title="Canais | Internacionais",[US] Bloomberg
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93013.ts
+#EXTINF:-1 tvg-id="[US] Bravo East" tvg-name="[US] Bravo East" tvg-logo="https://i.imgur.com/3wB0uN6.png" group-title="Canais | Internacionais",[US] Bravo East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93014.ts
+#EXTINF:-1 tvg-id="[US] Bravo West" tvg-name="[US] Bravo West" tvg-logo="https://i.imgur.com/3wB0uN6.png" group-title="Canais | Internacionais",[US] Bravo West
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93015.ts
+#EXTINF:-1 tvg-id="[US] C-SPAN 1" tvg-name="[US] C-SPAN 1" tvg-logo="https://i.imgur.com/zbE5D16.png" group-title="Canais | Internacionais",[US] C-SPAN 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93016.ts
+#EXTINF:-1 tvg-id="[US] C-SPAN 2" tvg-name="[US] C-SPAN 2" tvg-logo="https://i.imgur.com/d1HHFI8.png" group-title="Canais | Internacionais",[US] C-SPAN 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93017.ts
+#EXTINF:-1 tvg-id="[US] CBS Boston" tvg-name="[US] CBS Boston" tvg-logo="https://i.imgur.com/wHChYo1.png" group-title="Canais | Internacionais",[US] CBS Boston
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93019.ts
+#EXTINF:-1 tvg-id="[US] CBS New York" tvg-name="[US] CBS New York" tvg-logo="https://i.imgur.com/7DcuJEs.png" group-title="Canais | Internacionais",[US] CBS New York
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93020.ts
+#EXTINF:-1 tvg-id="[US] CBS Orlando" tvg-name="[US] CBS Orlando" tvg-logo="https://i.imgur.com/acQLxk6.png" group-title="Canais | Internacionais",[US] CBS Orlando
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93021.ts
+#EXTINF:-1 tvg-id="[US] CNN" tvg-name="[US] CNN" tvg-logo="https://i.imgur.com/F9f0GSV.png" group-title="Canais | Internacionais",[US] CNN
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93023.ts
+#EXTINF:-1 tvg-id="[US] CNN International" tvg-name="[US] CNN International" tvg-logo="https://i.imgur.com/cbWWbtA.png" group-title="Canais | Internacionais",[US] CNN International
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93024.ts
+#EXTINF:-1 tvg-id="[US] CNN Latin" tvg-name="[US] CNN Latin" tvg-logo="https://i.imgur.com/F9f0GSV.png" group-title="Canais | Internacionais",[US] CNN Latin
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93025.ts
+#EXTINF:-1 tvg-id="[US] Cartoon Network" tvg-name="[US] Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Internacionais",[US] Cartoon Network
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93018.ts
+#EXTINF:-1 tvg-id="[US] Cinemax East" tvg-name="[US] Cinemax East" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Internacionais",[US] Cinemax East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93022.ts
+#EXTINF:-1 tvg-id="[US] Comedy TV" tvg-name="[US] Comedy TV" tvg-logo="https://i.imgur.com/LAv4jNP.png" group-title="Canais | Internacionais",[US] Comedy TV
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93026.ts
+#EXTINF:-1 tvg-id="[US] Discovery Channel" tvg-name="[US] Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Internacionais",[US] Discovery Channel
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
+#EXTINF:-1 tvg-id="[US] Discovery Family" tvg-name="[US] Discovery Family" tvg-logo="https://i.imgur.com/ZWIJDtL.png" group-title="Canais | Internacionais",[US] Discovery Family
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93028.ts
+#EXTINF:-1 tvg-id="[US] Discovery ID" tvg-name="[US] Discovery ID" tvg-logo="https://i.imgur.com/ZYeVJYo.png" group-title="Canais | Internacionais",[US] Discovery ID
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93029.ts
+#EXTINF:-1 tvg-id="[US] Discovery Science" tvg-name="[US] Discovery Science" tvg-logo="https://i.imgur.com/sZ3WJ2j.png" group-title="Canais | Internacionais",[US] Discovery Science
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93030.ts
+#EXTINF:-1 tvg-id="[US] Disney Channel" tvg-name="[US] Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Internacionais",[US] Disney Channel
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
+#EXTINF:-1 tvg-id="[US] ESPN 1" tvg-name="[US] ESPN 1" tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Internacionais",[US] ESPN 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
+#EXTINF:-1 tvg-id="[US] ESPN 2" tvg-name="[US] ESPN 2" tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Internacionais",[US] ESPN 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
+#EXTINF:-1 tvg-id="[US] ESPN Deportes" tvg-name="[US] ESPN Deportes" tvg-logo="https://i.imgur.com/hmJxpAa.png" group-title="Canais | Internacionais",[US] ESPN Deportes
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93034.ts
+#EXTINF:-1 tvg-id="[US] FOX Boston" tvg-name="[US] FOX Boston" tvg-logo="https://i.imgur.com/ZCdXncf.png" group-title="Canais | Internacionais",[US] FOX Boston
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93036.ts
+#EXTINF:-1 tvg-id="[US] FOX New York" tvg-name="[US] FOX New York" tvg-logo="https://i.imgur.com/FiCKOlC.png" group-title="Canais | Internacionais",[US] FOX New York
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93037.ts
+#EXTINF:-1 tvg-id="[US] FOX News" tvg-name="[US] FOX News" tvg-logo="https://i.imgur.com/FiCKOlC.png" group-title="Canais | Internacionais",[US] FOX News
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93038.ts
+#EXTINF:-1 tvg-id="[US] FOX Sports 1" tvg-name="[US] FOX Sports 1" tvg-logo="https://i.imgur.com/FgUAW9l.png" group-title="Canais | Internacionais",[US] FOX Sports 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93039.ts
+#EXTINF:-1 tvg-id="[US] FOX Sports 2" tvg-name="[US] FOX Sports 2" tvg-logo="https://i.imgur.com/cdPDRvG.png" group-title="Canais | Internacionais",[US] FOX Sports 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
+#EXTINF:-1 tvg-id="[US] FX East" tvg-name="[US] FX East" tvg-logo="https://i.imgur.com/PrpxjDu.png" group-title="Canais | Internacionais",[US] FX East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93041.ts
+#EXTINF:-1 tvg-id="[US] FX West" tvg-name="[US] FX West" tvg-logo="https://i.imgur.com/PrpxjDu.png" group-title="Canais | Internacionais",[US] FX West
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93042.ts
+#EXTINF:-1 tvg-id="[US] FXX" tvg-name="[US] FXX" tvg-logo="https://i.imgur.com/QdWAPwD.png" group-title="Canais | Internacionais",[US] FXX
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93043.ts
+#EXTINF:-1 tvg-id="[US] FXX East" tvg-name="[US] FXX East" tvg-logo="https://i.imgur.com/QdWAPwD.png" group-title="Canais | Internacionais",[US] FXX East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93044.ts
+#EXTINF:-1 tvg-id="[US] FYI" tvg-name="[US] FYI" tvg-logo="https://i.imgur.com/HqD0CcY.png" group-title="Canais | Internacionais",[US] FYI
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93045.ts
+#EXTINF:-1 tvg-id="[US] Fight Network" tvg-name="[US] Fight Network" tvg-logo="https://i.imgur.com/2C1JETd.png" group-title="Canais | Internacionais",[US] Fight Network
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93035.ts
+#EXTINF:-1 tvg-id="[US] HBO" tvg-name="[US] HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Internacionais",[US] HBO
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93048.ts
+#EXTINF:-1 tvg-id="[US] HBO 2" tvg-name="[US] HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Internacionais",[US] HBO 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93049.ts
+#EXTINF:-1 tvg-id="[US] HBO Family" tvg-name="[US] HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Internacionais",[US] HBO Family
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93050.ts
+#EXTINF:-1 tvg-id="[US] HBO West" tvg-name="[US] HBO West" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Internacionais",[US] HBO West
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93051.ts
+#EXTINF:-1 tvg-id="[US] HGTV East" tvg-name="[US] HGTV East" tvg-logo="https://i.imgur.com/9Pi5mnp.png" group-title="Canais | Internacionais",[US] HGTV East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93052.ts
+#EXTINF:-1 tvg-id="[US] HGTV West" tvg-name="[US] HGTV West" tvg-logo="https://i.imgur.com/9Pi5mnp.png" group-title="Canais | Internacionais",[US] HGTV West
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93053.ts
+#EXTINF:-1 tvg-id="[US] Hallmark" tvg-name="[US] Hallmark" tvg-logo="https://i.imgur.com/UMVX9GR.png" group-title="Canais | Internacionais",[US] Hallmark
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93046.ts
+#EXTINF:-1 tvg-id="[US] Hallmark Drama" tvg-name="[US] Hallmark Drama" tvg-logo="https://i.imgur.com/l0Otr8y.png" group-title="Canais | Internacionais",[US] Hallmark Drama
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93047.ts
+#EXTINF:-1 tvg-id="[US] History" tvg-name="[US] History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Internacionais",[US] History
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93054.ts
+#EXTINF:-1 tvg-id="[US] Lifetime" tvg-name="[US] Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Internacionais",[US] Lifetime
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93055.ts
+#EXTINF:-1 tvg-id="[US] MSNBC" tvg-name="[US] MSNBC" tvg-logo="https://i.imgur.com/uTQGhB2.png" group-title="Canais | Internacionais",[US] MSNBC
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93056.ts
+#EXTINF:-1 tvg-id="[US] MTV" tvg-name="[US] MTV" tvg-logo="https://i.imgur.com/B7p6rjW.png" group-title="Canais | Internacionais",[US] MTV
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93057.ts
+#EXTINF:-1 tvg-id="[US] NBA TV" tvg-name="[US] NBA TV" tvg-logo="https://i.imgur.com/NS2k4oJ.png" group-title="Canais | Internacionais",[US] NBA TV
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93058.ts
+#EXTINF:-1 tvg-id="[US] NBC New York" tvg-name="[US] NBC New York" tvg-logo="https://i.imgur.com/l2yqu4s.png" group-title="Canais | Internacionais",[US] NBC New York
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93059.ts
+#EXTINF:-1 tvg-id="[US] NBC Orlando" tvg-name="[US] NBC Orlando" tvg-logo="https://i.imgur.com/bC4unKx.png" group-title="Canais | Internacionais",[US] NBC Orlando
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93060.ts
+#EXTINF:-1 tvg-id="[US] NFL Network" tvg-name="[US] NFL Network" tvg-logo="https://i.imgur.com/NOUxhc0.png" group-title="Canais | Internacionais",[US] NFL Network
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93061.ts
+#EXTINF:-1 tvg-id="[US] NHL Network" tvg-name="[US] NHL Network" tvg-logo="https://i.imgur.com/9YctHnc.png" group-title="Canais | Internacionais",[US] NHL Network
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93062.ts
+#EXTINF:-1 tvg-id="[US] Nick" tvg-name="[US] Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Internacionais",[US] Nick
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93063.ts
+#EXTINF:-1 tvg-id="[US] Nick Jr." tvg-name="[US] Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Internacionais",[US] Nick Jr.
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
+#EXTINF:-1 tvg-id="[US] Nick Toons" tvg-name="[US] Nick Toons" tvg-logo="https://i.imgur.com/Ai6juYF.png" group-title="Canais | Internacionais",[US] Nick Toons
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
+#EXTINF:-1 tvg-id="[US] Outdoor" tvg-name="[US] Outdoor" tvg-logo="https://i.imgur.com/1LOI18b.png" group-title="Canais | Internacionais",[US] Outdoor
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93066.ts
+#EXTINF:-1 tvg-id="[US] Oxygen East" tvg-name="[US] Oxygen East" tvg-logo="https://i.imgur.com/iAHwJQc.png" group-title="Canais | Internacionais",[US] Oxygen East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93067.ts
+#EXTINF:-1 tvg-id="[US] Paramount" tvg-name="[US] Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Internacionais",[US] Paramount
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93068.ts
+#EXTINF:-1 tvg-id="[US] Showtime East" tvg-name="[US] Showtime East" tvg-logo="https://i.imgur.com/R9izJKv.png" group-title="Canais | Internacionais",[US] Showtime East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93069.ts
+#EXTINF:-1 tvg-id="[US] Showtime Family Zone" tvg-name="[US] Showtime Family Zone" tvg-logo="https://i.imgur.com/R9izJKv.png" group-title="Canais | Internacionais",[US] Showtime Family Zone
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93070.ts
+#EXTINF:-1 tvg-id="[US] Showtime Showcase" tvg-name="[US] Showtime Showcase" tvg-logo="https://i.imgur.com/R9izJKv.png" group-title="Canais | Internacionais",[US] Showtime Showcase
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93071.ts
+#EXTINF:-1 tvg-id="[US] Showtime West" tvg-name="[US] Showtime West" tvg-logo="https://i.imgur.com/R9izJKv.png" group-title="Canais | Internacionais",[US] Showtime West
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93072.ts
+#EXTINF:-1 tvg-id="[US] Starz" tvg-name="[US] Starz" tvg-logo="https://i.imgur.com/4kAO5n0.png" group-title="Canais | Internacionais",[US] Starz
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93073.ts
+#EXTINF:-1 tvg-id="[US] Starz Cinema" tvg-name="[US] Starz Cinema" tvg-logo="https://i.imgur.com/6yw9OYQ.png" group-title="Canais | Internacionais",[US] Starz Cinema
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93074.ts
+#EXTINF:-1 tvg-id="[US] Starz Comedy" tvg-name="[US] Starz Comedy" tvg-logo="https://i.imgur.com/jFyCd94.png" group-title="Canais | Internacionais",[US] Starz Comedy
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93083.ts
+#EXTINF:-1 tvg-id="[US] Starz Encore Action" tvg-name="[US] Starz Encore Action" tvg-logo="https://i.imgur.com/qCo5vpz.png" group-title="Canais | Internacionais",[US] Starz Encore Action
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93084.ts
+#EXTINF:-1 tvg-id="[US] Starz Encore Kids & Family" tvg-name="[US] Starz Encore Kids & Family" tvg-logo="https://i.imgur.com/MQFhVUs.png" group-title="Canais | Internacionais",[US] Starz Encore Kids & Family
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93085.ts
+#EXTINF:-1 tvg-id="[US] Starz Encore Suspense" tvg-name="[US] Starz Encore Suspense" tvg-logo="https://i.imgur.com/CLpZJ83.png" group-title="Canais | Internacionais",[US] Starz Encore Suspense
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93086.ts
+#EXTINF:-1 tvg-id="[US] Syfy" tvg-name="[US] Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Internacionais",[US] Syfy
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93087.ts
+#EXTINF:-1 tvg-id="[US] TLC" tvg-name="[US] TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Internacionais",[US] TLC
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93091.ts
+#EXTINF:-1 tvg-id="[US] TNT" tvg-name="[US] TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Internacionais",[US] TNT
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93092.ts
+#EXTINF:-1 tvg-id="[US] TUDN" tvg-name="[US] TUDN" tvg-logo="https://i.imgur.com/ZL9yAEf.png" group-title="Canais | Internacionais",[US] TUDN
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93093.ts
+#EXTINF:-1 tvg-id="[US] Telemundo" tvg-name="[US] Telemundo" tvg-logo="https://i.imgur.com/NDmEiPf.png" group-title="Canais | Internacionais",[US] Telemundo
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93088.ts
+#EXTINF:-1 tvg-id="[US] UFC" tvg-name="[US] UFC" tvg-logo="https://i.imgur.com/6bArDpH.png" group-title="Canais | Internacionais",[US] UFC
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93094.ts
+#EXTINF:-1 tvg-id="[US] UP" tvg-name="[US] UP" tvg-logo="https://i.imgur.com/TcszmIB.png" group-title="Canais | Internacionais",[US] UP
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93097.ts
+#EXTINF:-1 tvg-id="[US] USA East" tvg-name="[US] USA East" tvg-logo="https://i.imgur.com/eicDpM3.png" group-title="Canais | Internacionais",[US] USA East
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93098.ts
+#EXTINF:-1 tvg-id="[US] Universal Kids" tvg-name="[US] Universal Kids" tvg-logo="https://i.imgur.com/14jgFEb.png" group-title="Canais | Internacionais",[US] Universal Kids
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93095.ts
+#EXTINF:-1 tvg-id="[US] Univision" tvg-name="[US] Univision" tvg-logo="https://i.imgur.com/Oh3FQ9B.png" group-title="Canais | Internacionais",[US] Univision
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93096.ts
+#EXTINF:-1 tvg-id="[US] VH1" tvg-name="[US] VH1" tvg-logo="https://i.imgur.com/Cvz1b9J.png" group-title="Canais | Internacionais",[US] VH1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93099.ts
