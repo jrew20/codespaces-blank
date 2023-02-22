@@ -27,3 +27,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewKMovies.us" tvg-name="New K-Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="Movie",New K-Movies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewKMovies.us" tvg-name="TFC" tvg-country="US" tvg-language="English" tvg-logo="https://philtimes.com.au/wp-content/uploads/2015/09/abscbn-tfc-logo.jpg",TFC
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
+
+#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/warner-tv.png" group-title="Entertainment", Warner TV
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941652
+
+
