@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="",Cinema One 
 https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 
-#EXTINF:-1 tvg-id="NewKMovies.us" tvg-name="TFC" tvg-country="US" tvg-language="English" tvg-logo="https://philtimes.com.au/wp-content/uploads/2015/09/abscbn-tfc-logo.jpg "group-title="",TFC
+#EXTINF:-1 tvg-id="NewKMovies.us" tvg-name="TFC" tvg-country="US" tvg-language="English" tvg-logo="https://philtimes.com.au/wp-content/uploads/2015/09/abscbn-tfc-logo.jpg",TFC
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/NS2k4oJ.png" group-title="",NBA TV
